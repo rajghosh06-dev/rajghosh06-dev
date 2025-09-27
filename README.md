@@ -48,7 +48,7 @@ Specialties: Environment isolation, package integrity, modular GUI design
 
 - Mail: [rishitghosh06@gmail.com](mailto:rishitghosh06@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/rajghosh06) `Not yet Created`
-- 🧠 [Portfolio](https://yourportfolio.com)
+- 🧠 [Portfolio](https://sites.google.com/view/rajghosh06/home)
 - 🗨️ Discord: [rajghosh06](https://discord.com/users/1110615675153678417)  
 
 ---
