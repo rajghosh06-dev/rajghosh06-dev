@@ -48,12 +48,10 @@ Specialties: Environment isolation, package integrity, modular GUI design
 ---
 
 ## 🎯 Current Goals
-
-- 🔧 Set up a clean Python 3.13.7 virtual environment for AI/ML workflows  
-- 🧠 Integrate Jupyter Notebook into PyCharm for seamless experimentation  
+  
 - 🧮 Extend Java AWT calculator with A/C, Backspace, and decimal point  
 - 🧼 Optimize `.gitignore` for Campus Connect for perfect hygiene  
-- 🧑‍💻 Craft a Discord display name that blends tech, smartness, and fun  
+- 🧑‍💻 Develop and Work on Campus Connect Project  
 
 ---
 
