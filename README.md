@@ -46,6 +46,11 @@ Specialties: Environment isolation, package integrity, modular GUI design
   AI-powered environmental modeling.
 
 ---
+## 🧠 Achievements & Badges
+- Hacktoberfest 2025:  
+  [![Badge](https://holopin.io/api/userbadge/cmg3k9fn3000cjm046diy38pb/image)](https://www.holopin.io/hacktoberfest2025/userbadge/cmg3k9fn3000cjm046diy38pb)
+
+---
 
 ## 🎯 Current Goals
   
