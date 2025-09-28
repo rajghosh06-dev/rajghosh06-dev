@@ -47,9 +47,11 @@ Specialties: Environment isolation, package integrity, modular GUI design
 
 ---
 ## 🧠 Achievements & Badges
-
-### Hacktoberfest 2025
-[![Hacktoberfest 2025 Badge](https://holopin.io/api/userbadge/cmg3k9fn3000cjm046diy38pb/image)](https://www.holopin.io/hacktoberfest2025/userbadge/cmg3k9fn3000cjm046diy38pb)
+<h3>Hacktoberfest 2025</h3>
+<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmg3k9fn3000cjm046diy38pb">
+  <img src="https://holopin.io/api/userbadge/cmg3k9fn3000cjm046diy38pb/image" alt="Hacktoberfest 2025 Badge" width="200"/>
+</a>  
+- [Hacktoberfest 2025 Badge](https://www.holopin.io/hacktoberfest2025/userbadge/cmg3k9fn3000cjm046diy38pb)
 
 ---
 
