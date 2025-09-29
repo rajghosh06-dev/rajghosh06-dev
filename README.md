@@ -65,11 +65,17 @@ Specialties: Environment isolation, package integrity, modular GUI design
 
 ## 📫 Let's Connect
 
-- 📧 Email: [rishitghosh06@gmail.com](mailto:rishitghosh06@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/rajghosh06](https://linkedin.com/in/rajghosh06) *(Not yet created)*  
-- 🌐 Portfolio: [rajghosh.com](https://sites.google.com/view/rajghosh06/home)  
-- 🗨️ Discord: [rajghosh06](https://discord.com/users/1110615675153678417)  
+- 📧 **Email**: [rishitghosh06@gmail.com](mailto:rishitghosh06@gmail.com)  
+- 💼 **LinkedIn**: [rajghosh06](https://linkedin.com/in/rajghosh06)  
+- 🌐 **Portfolio**: [rajghosh.com](https://sites.google.com/view/rajghosh06/home)  
+- 💬 **Discord**: [rajghosh06](https://discord.com/users/1110615675153678417)  
+- 🐦 **X (formerly Twitter)**: [@rajghosh06_x](https://x.com/rajghosh06_x)
 
 ---
 
 > _“Modularity isn’t just a coding principle—it’s a mindset.”_
+
+Thanks for visiting my GitHub Profile!
+Feel free to check out my repositories or connect with me from the [Let's Connect](#-lets-connect) section. 😊
+
+---
