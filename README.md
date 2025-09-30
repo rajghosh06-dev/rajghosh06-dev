@@ -2,7 +2,7 @@
 
 **Software Engineer · Inquisitive Debugger · Lifelong Learner · Open Source Contributor**
 
-Welcome to my digital workspace—a space where modular architecture meets creative experimentation.
+Welcome to my digital workspace — a space where modular architecture meets creative experimentation.  
 I'm a second-year B.Tech student specializing in CSE–AI&ML at Geethanjali College of Engineering and Technology, Hyderabad, Telangana. I actively contribute to academic and hackathon projects with a focus on scalable, well-architected solutions.
 
 ---
