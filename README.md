@@ -36,7 +36,7 @@ Specialties: Environment isolation, package integrity, modular GUI design
 
 ## 🚀 Projects Worth Exploring
 
-- 🔢 [Calculator-System](https://github.com/yourusername/calculator-system)  
+- 🔢 [Calculator-AWT](https://github.com/yourusername/calculator-AWT)  
   Modular Java AWT calculator with extended features.
 
 - 🏫 [Campus Connect](https://github.com/yourusername/Campus-Connect)  
