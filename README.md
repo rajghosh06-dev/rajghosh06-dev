@@ -1,9 +1,9 @@
 # 👨‍💻 RISHIT GHOSH
 
-**Software Engineer · Curious Debugger · Active Learner**
+**Software Engineer · Inquisitive Debugger · Lifelong Learner · Open Source Contributor**
 
-Welcome to my digital workspace—a place where modular architecture meets creative experimentation.  
-I'm a 2nd-year B.Tech student in **CSE–AI&ML** at Geethanjali College of Engineering and Technology, currently based in **Mumbai** for academic and hackathon projects.
+Welcome to my digital workspace—a space where modular architecture meets creative experimentation.
+I'm a second-year B.Tech student specializing in CSE–AI&ML at Geethanjali College of Engineering and Technology, Hyderabad, Telangana. I actively contribute to academic and hackathon projects with a focus on scalable, well-architected solutions.
 
 ---
 
@@ -26,7 +26,7 @@ I'm a 2nd-year B.Tech student in **CSE–AI&ML** at Geethanjali College of Engin
 ## 🧰 Tech Stack & Tools
 
 ```yaml
-Languages:   C, Python, Java, SQL  
+Languages:   C, Python, Java, SQL, HTML  
 Frameworks:  AWT, Flask, Maven  
 Tools:       PyCharm, IntelliJ, Jupyter, Git, VS Code, Eclipse, Dev C++  
 Specialties: Environment isolation, package integrity, modular GUI design
