@@ -21,6 +21,9 @@ I'm a second-year B.Tech student specializing in CSE–AI&ML at Geethanjali Coll
 - 🎨 **Creative Technologist**  
   Poster design, event branding, and digital identity expression.
 
+- 🤝 **OSS CLUB Contributor @ GCET**  
+  Actively contributing to open-source initiatives, modular timelines, and collaborative documentation.
+
 ---
 
 ## 🧰 Tech Stack & Tools
@@ -36,14 +39,14 @@ Specialties: Environment isolation, package integrity, modular GUI design
 
 ## 🚀 Projects Worth Exploring
 
-- 🔢 [Calculator-AWT](https://github.com/yourusername/calculator-AWT)  
+- 🔢 [Calculator-AWT](https://github.com/rajghosh06-dev/Calculator-AWT)  
   Modular Java AWT calculator with extended features.
 
-- 🏫 [Campus Connect](https://github.com/yourusername/Campus-Connect)  
+- 🏫 [Campus Connect](https://github.com/CampusConnectHub/campus-connect-portal)  
   Java + MySQL portal with airtight `.gitignore` and demo readiness. *(Work in Progress)*
 
-- 🌿 [Pollution Drift Predictor](https://github.com/yourusername/Pollution-Drift-Predictor)  
-  AI-powered environmental modeling.
+- 🌿 [Pollution Drift Predictor](https://github.com/rajghosh06-dev/Pollution-Drift-Predictor)  
+  SkillsBuild Edunet Foundation - GREEN AI - AI-powered environmental modeling based on Environmental Monitoring & Pollution Control.
 
 ---
 ## 🧠 Achievements & Badges
@@ -74,6 +77,9 @@ Specialties: Environment isolation, package integrity, modular GUI design
 ---
 
 > _“Modularity isn’t just a coding principle—it’s a mindset.”_
+
+---
+📍 Based in Hyderabad | 🎓 B.Tech CSE–AI&ML @ GCET
 
 Thanks for visiting my GitHub Profile!
 Feel free to check out my repositories or connect with me from the [Let's Connect](#-lets-connect) section. 😊
