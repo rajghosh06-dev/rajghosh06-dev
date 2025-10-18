@@ -76,9 +76,13 @@ Specialties: Environment isolation, package integrity, modular GUI design
 
 ---
 
-> _“Modularity isn’t just a coding principle—it’s a mindset.”_
+## 📁 View My Portfolio  
+Want to explore my modular, dynamic portfolio with projects, skills, and experience? 👉 [Click here to view my portfolio](https://rajghosh06-dev.github.io/portfolio/index.html)
 
 ---
+> _“Modularity isn’t just a coding principle—it’s a mindset.”_
+
+
 📍 Based in Hyderabad | 🎓 B.Tech CSE–AI&ML @ GCET
 
 Thanks for visiting my GitHub Profile!
