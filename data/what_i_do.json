@@ -1,0 +1,22 @@
+[
+  {
+    "emoji": "🧩",
+    "title": "Build modular systems",
+    "description": "I enjoy turning messy requirements into clean structures that are easier to read, extend, and review."
+  },
+  {
+    "emoji": "⚙️",
+    "title": "Improve developer workflow",
+    "description": "From repo organization to automation and documentation, I like removing friction for future contributors."
+  },
+  {
+    "emoji": "🧠",
+    "title": "Experiment with AI/ML",
+    "description": "I explore practical ML workflows, reproducibility, and problem-solving beyond toy demos."
+  },
+  {
+    "emoji": "🎨",
+    "title": "Add creative polish",
+    "description": "I care about how projects look, feel, and communicate, not just how they run."
+  }
+]

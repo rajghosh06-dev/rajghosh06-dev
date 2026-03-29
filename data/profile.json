@@ -1,0 +1,53 @@
+{
+  "name": "Rishit Ghosh",
+  "greeting": "Hi, I'm",
+  "subtitle": "Software Engineer | AI/ML Explorer | Open Source Contributor",
+  "typing_lines": [
+    "Building polished Java and Python projects",
+    "Exploring AI/ML through practical workflows",
+    "Turning ambitious ideas into software with character"
+  ],
+  "intro": "I enjoy turning ideas into maintainable software: clean architecture, thoughtful interfaces, and workflows that make collaboration easier.",
+  "profile_points": [
+    "Building Java and Python systems with a bias for clarity, modularity, and reliability.",
+    "Mixing software engineering, AI/ML experimentation, and developer tooling.",
+    "Caring about documentation, presentation, and the details that make projects feel complete."
+  ],
+  "hero_badges": [
+    "<img src=\"https://komarev.com/ghpvc/?username=rajghosh06-dev&style=for-the-badge&color=0ea5e9\" alt=\"Profile Views\" />",
+    "<img src=\"https://img.shields.io/badge/Open%20Source-Active-16a34a?style=for-the-badge&logo=github\" alt=\"Open Source\" />",
+    "<img src=\"https://img.shields.io/badge/Focus-Clean%20Architecture-f97316?style=for-the-badge\" alt=\"Focus\" />"
+  ],
+  "cta_links": [
+    {
+      "label": "Portfolio",
+      "message": "Visit",
+      "url": "https://rajghosh06-dev.github.io/portfolio/",
+      "color": "111827",
+      "logo": "googlechrome"
+    },
+    {
+      "label": "LinkedIn",
+      "message": "Connect",
+      "url": "https://linkedin.com/in/rajghosh06",
+      "color": "0A66C2",
+      "logo": "linkedin"
+    },
+    {
+      "label": "Email",
+      "message": "Write to me",
+      "url": "mailto:rishitghosh06@gmail.com",
+      "color": "EA4335",
+      "logo": "gmail"
+    }
+  ],
+  "terminal_lines": [
+    "rishit@github:~$ focus",
+    "modular software, AI experiments, and polished developer workflows",
+    "rishit@github:~$ currently",
+    "Java | Python | Open Source | Creative Tech"
+  ],
+  "location": "Hyderabad",
+  "education": "B.Tech CSE-AI&ML @ GCET",
+  "quote": "Modularity is not just a coding principle; it is how I think through problems."
+}

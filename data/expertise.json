@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Software Architecture",
+    "description": "Break systems into clean, reusable pieces that are easier to extend, review, and maintain."
+  },
+  {
+    "name": "AI/ML Workflows",
+    "description": "Turn experiments into practical workflows with reproducibility, evaluation, and clearer problem framing."
+  },
+  {
+    "name": "Developer Experience",
+    "description": "Improve setup, documentation, repo structure, and day-to-day workflow quality for contributors."
+  },
+  {
+    "name": "Product Presentation",
+    "description": "Make projects easier to understand through stronger writing, visuals, and thoughtful polish."
+  }
+]

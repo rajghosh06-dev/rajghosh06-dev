@@ -1,0 +1,15 @@
+{
+  "name": "Calculator-AWT",
+  "url": "https://github.com/rajghosh06-dev/Calculator-AWT",
+  "description": "A Java AWT calculator that reflects the way I like to build: reusable UI pieces, readable event handling, and a structure that stays easy to extend.",
+  "stack": [
+    "Java",
+    "AWT",
+    "Object-Oriented Design"
+  ],
+  "highlights": [
+    "Reusable component-driven UI instead of one-off widget wiring",
+    "Extended calculator controls with clean event flow",
+    "Readable structure that makes future enhancement easier"
+  ]
+}

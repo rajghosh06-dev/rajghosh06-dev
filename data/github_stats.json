@@ -1,0 +1,25 @@
+{
+  "title": "GitHub Pulse",
+  "subtitle": "A quick look at the repositories, languages, and contribution patterns behind my profile.",
+  "username": "rajghosh06-dev",
+  "show_summary_card": true,
+  "summary_card_title": "This Year on GitHub",
+  "summary_card_size": "default",
+  "summary_card_hide": [
+    "issues",
+    "streak",
+    "week",
+    "trend",
+    "avg",
+    "active_day",
+    "grade",
+    "repos",
+    "followers"
+  ],
+  "monthly_banner": "assets/github-pulse-monthly.svg",
+  "yearly_history_banner": "assets/github-pulse-yearly.svg",
+  "badges": [
+    "<img src=\"https://img.shields.io/github/followers/rajghosh06-dev?style=for-the-badge&logo=github&label=Followers&color=2563eb\" alt=\"Followers\" />",
+    "<img src=\"https://img.shields.io/badge/Public%20Repos-18-7c3aed?style=for-the-badge&logo=github&logoColor=white\" alt=\"Public Repos\" />"
+  ]
+}

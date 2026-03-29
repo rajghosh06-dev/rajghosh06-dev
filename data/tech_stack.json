@@ -1,0 +1,6 @@
+{
+  "languages": ["C", "Python", "Java", "SQL", "HTML"],
+  "frameworks": ["AWT", "Flask", "Maven"],
+  "tools": ["PyCharm", "IntelliJ", "Jupyter", "Git", "VS Code", "Eclipse", "Dev C++"],
+  "specialties": ["Environment isolation", "Package integrity", "Modular GUI design"]
+}

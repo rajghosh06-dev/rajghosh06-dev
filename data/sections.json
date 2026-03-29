@@ -1,0 +1,62 @@
+[
+  {
+    "id": "profile",
+    "filename": "profile.json",
+    "title": "Profile",
+    "renderer": "profile"
+  },
+  {
+    "id": "about",
+    "filename": "about.json",
+    "title": "About Me",
+    "renderer": "about"
+  },
+  {
+    "id": "current_goals",
+    "filename": "current_goals.json",
+    "title": "Current Sprint",
+    "renderer": "current_goals"
+  },
+  {
+    "id": "featured_project",
+    "filename": "featured_project.json",
+    "title": "Spotlight Project",
+    "renderer": "featured_project"
+  },
+  {
+    "id": "github_stats",
+    "filename": "github_stats.json",
+    "title": "GitHub Pulse",
+    "renderer": "github_stats"
+  },
+  {
+    "id": "expertise",
+    "filename": "expertise.json",
+    "title": "Strengths",
+    "renderer": "expertise"
+  },
+  {
+    "id": "what_i_do",
+    "filename": "what_i_do.json",
+    "title": "How I Work",
+    "renderer": "what_i_do"
+  },
+  {
+    "id": "tech_stack",
+    "filename": "tech_stack.json",
+    "title": "Tech Stack & Tools",
+    "renderer": "tech_stack"
+  },
+  {
+    "id": "projects",
+    "filename": "projects.json",
+    "title": "Featured Builds",
+    "renderer": "projects"
+  },
+  {
+    "id": "achievements",
+    "filename": "achievements.json",
+    "title": "Open Source Moments",
+    "renderer": "achievements"
+  }
+]

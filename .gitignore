@@ -1,68 +1,68 @@
-# 🔒 Sensitive files
-*.env
-*.pfx
-*.publishsettings
-
-# 🧠 Python artifacts (if using scripts)
+# Python cache and virtual environments
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
 *.pyd
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.ipynb_checkpoints/
+.coverage
+.coverage.*
+.venv/
+venv/
+env/
 
-# 🧪 Node.js (if using JS tooling)
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# 🖼️ Image editing temp files
-*.psd
-*.xcf
-*.ai
-*.svg~
-*.tmp
-
-# 🧱 IDE-specific folders
-.vscode/
+# Local tooling and editor settings
 .idea/
+.vscode/
 *.suo
 *.user
+*.userossc
 *.rsuser
 *.sln.docstates
 
-# 🧹 System files
+# OS and temp files
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# 📦 Package managers
-*.nupkg
-*.snupkg
-*.lock
-package-lock.json
-yarn.lock
-
-# 🧾 Logs and backups
+.cache/
 *.log
-*.bak
 *.tmp
+*.temp
+*.bak
 *.swp
 *.swo
+*.orig
 
-# 🧰 Build artifacts (if any)
+# Dependency directories
+node_modules/
+
+# Sensitive local config
+*.env
+.env
+.env.*
+*.pfx
+*.publishsettings
+
+# Generated or local-only build output
 dist/
 build/
 out/
 coverage/
-*.vsix
 
-# 📁 GitHub Pages or Profile Assets
-# Keep these if you're using them:
-!assets/
-!profile.md
-!README.md
-!index.html
+# Design/source files not needed for profile rendering
+*.psd
+*.xcf
+*.ai
+*.svg~
 
-# 🧬 GitHub Actions
-# Keep workflow files
+# Keep the actual profile repo content tracked
 !.github/
+!assets/
+!data/
+!README.md
+!generate_readme.py
+!manage_section.py
+!refresh_github_stats.py

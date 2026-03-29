@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Calculator-AWT",
+    "url": "https://github.com/rajghosh06-dev/Calculator-AWT",
+    "description": "Modular desktop calculator with reusable UI pieces and clean Java event-driven logic.",
+    "stack": [
+      "Java",
+      "AWT"
+    ]
+  },
+  {
+    "name": "Campus Connect",
+    "url": "https://github.com/CampusConnectHub/campus-connect-portal",
+    "description": "Campus collaboration portal focused on reliability, clarity, and structured data handling.",
+    "stack": [
+      "Java",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Pollution Drift Predictor",
+    "url": "https://github.com/rajghosh06-dev/Pollution-Drift-Predictor",
+    "description": "AI-driven environmental project exploring prediction, analysis, and visualization around pollution movement.",
+    "stack": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis"
+    ]
+  }
+]
