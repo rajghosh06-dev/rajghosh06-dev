@@ -140,7 +140,7 @@ A quick look at the repositories, languages, and contribution patterns behind my
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=64 height=64 alt="Java" />
   <br>Java
 </td><td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" width=64 height=64 alt="SQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width=64 height=64 alt="SQL" />
   <br>SQL
 </td><td align="center" width="120">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=64 height=64 alt="HTML" />

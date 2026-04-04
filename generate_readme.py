@@ -20,7 +20,7 @@ ICON_MAP = {
     "C": "c",
     "Python": "python",
     "Java": "java",
-    "SQL": "sql",
+    "SQL": "mysql",
     "HTML": "html5",
     "AWT": "java",
     "Flask": "flask",
