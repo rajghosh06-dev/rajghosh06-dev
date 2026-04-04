@@ -185,7 +185,8 @@ A quick look at the repositories, languages, and contribution patterns behind my
 </td><td align="center" width="120">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=64 height=64 alt="VS Code" />
   <br>VS Code
-</td></tr><tr><td align="center" width="120">
+</td></tr></tbody></table>
+<table><tbody><tr><td align="center" width="120">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width=64 height=64 alt="Eclipse" />
   <br>Eclipse
 </td><td align="center" width="120">

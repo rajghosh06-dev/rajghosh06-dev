@@ -130,10 +130,11 @@ def render_icon_table(items: list[str]) -> str:
             f"  <br>{item}\n"
             f"</td>"
         )
-    rows = []
+    tables = []
     for i in range(0, len(cells), 5):
-        rows.append("<tr>" + "".join(cells[i:i+5]) + "</tr>")
-    return "<table><tbody>" + "".join(rows) + "</tbody></table>\n"
+        row = "<tr>" + "".join(cells[i:i+5]) + "</tr>"
+        tables.append("<table><tbody>" + row + "</tbody></table>")
+    return "\n".join(tables) + "\n"
 
 
 def render_profile(profile: dict[str, Any]) -> str:
