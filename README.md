@@ -30,9 +30,9 @@
 
 ```bash
 rishit@github:~$ focus
-modular software, AI experiments, and polished developer workflows
-rishit@github:~$ currently
-Java | Python | Open Source | Creative Tech
+building durable software, practical AI experiments, and cleaner developer workflows
+rishit@github:~$ current_mode
+Java systems | Python automation | Open Source momentum | product-minded craft
 ```
 
 <br />
